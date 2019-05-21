@@ -9,3 +9,6 @@ conda init
 
 #Google Chrome.  Intoli is a 3rd party site.  
 curl https://intoli.com/install-google-chrome.sh | bash
+
+#X windows 
+sudo yum install xorg-x11-xauth xterm
